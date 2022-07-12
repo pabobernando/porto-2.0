@@ -49,7 +49,7 @@ export const NavBar = () => {
               <a href="https://www.facebook.com/pabobernan"><img src={navIcon2} alt="" /></a>
               <a href="https://www.instagram.com/pabobernando/"><img src={navIcon3} alt="" /></a>
             </div>
-            <button className="vvd" onClick={() => console.log('connect')}><span>Connect Wallet</span></button>
+            {/* <button className="vvd" onClick={() => console.log('connect')}><span>Connect Wallet</span></button> */}
           </span>
         </Navbar.Collapse>
       </Container>
